@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "936420309838",
+    "firebase_url": "https://hands-free-project-3a882-default-rtdb.firebaseio.com",
+    "project_id": "hands-free-project-3a882",
+    "storage_bucket": "hands-free-project-3a882.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936420309838:android:f49e680362142f961abc1f",
+        "android_client_info": {
+          "package_name": "com.example.hands_free"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiHwAsct0IDOrkeFbDNY7_bYpeO7Ams0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936420309838:android:290b6101a7a137b91abc1f",
+        "android_client_info": {
+          "package_name": "com.example.prototype2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiHwAsct0IDOrkeFbDNY7_bYpeO7Ams0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
